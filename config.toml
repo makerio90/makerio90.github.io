@@ -1,0 +1,4 @@
+baseURL = 'http://makerio90.github.io/'
+languageCode = 'en-us'
+title = 'makerio90'
+theme = "hugo-bearcub"
